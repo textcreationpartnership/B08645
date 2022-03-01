@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of Sir Robert Killigrew, Thomas Wyndham, William Killigrew, Henry Heron, and Edward Heron, drainers and participants of Lindsey Levell, in Lincolnshire, claiming under the late Earl of Lindsey.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08645</idno>
+            <idno type="STC">Wing C1000</idno>
+            <idno type="STC">ESTC R170984</idno>
+            <idno type="EEBO-CITATION">64551037</idno>
+            <idno type="OCLC">ocm 64551037</idno>
+            <idno type="VID">184424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08645)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184424)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2863:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of Sir Robert Killigrew, Thomas Wyndham, William Killigrew, Henry Heron, and Edward Heron, drainers and participants of Lindsey Levell, in Lincolnshire, claiming under the late Earl of Lindsey.</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1665?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Docket title: The case of Sir Robert Killigrew and others, drainers and participants of Lindsey-Levell.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Killigrew, Robert, --  Sir, 1579-1633 --  Trials, litigation, etc.</term>
+               <term>Wyndham, Thomas --  Trials, litigation, etc.</term>
+               <term>Heron, Henry --  Trials, litigation, etc.</term>
+               <term>Heron, Edward, --  Sir --  Trials, litigation, etc.</term>
+               <term>Killigrew, William, --  Esq --  Trials, litigation, etc.</term>
+               <term>Lindsey, Robert Bertie, --  Earl of, 1582-1642 --  Trials, litigation, etc.</term>
+               <term>Drainage laws --  England --  Early works to 1800.</term>
+               <term>Lincolnshire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="docket_title">
+            <pb facs="tcp:184424:1" rendition="simple:additions"/>
+            <p>THE CASE OF <hi>Sir</hi> ROBERT KILLIGREW, AND OTHERS, Drainers and Participants OF <hi>Lindſey-Levell.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:184424:2" rendition="simple:additions"/>
+            <pb facs="tcp:184424:3" rendition="simple:additions"/>
+            <head>THE CASE OF Sir <hi>Robert Killigrew, Thomas Wyndham, William Killigrew, Henry Heron,</hi> and <hi>Edward Heron,</hi> Drainers and Participants of <hi>Lindſey Levell,</hi> in <hi>Lincolnſhire,</hi> Claiming under the late Earl of <hi>Lindſey.</hi>
+            </head>
+            <p>THERE being ſeveral Fenn-lands, in the County of <hi>Lincoln,</hi> ſubject to Inunda<g ref="char:EOLhyphen"/>tions, and hurtfully ſurrounded with Water, to the Prejudice of this Kingdom; ſeveral Attempts were made for Draining the ſame, by divers Perſons, by Virtue of Commiſſions of Sewers, iſſued out in the Reigns of many of the Kings of this Realm, before the Reign of King <hi>Charles</hi> the Firſt.</p>
+            <p>That it then appearing, That the Charge neceſſary for Draining, was inſupportable to the People, by Law ſubject to pay the ſame; and that thoſe Taxes which had been laid, by Virtue of the Commiſſioners of Sewers, then to fore iſſued, could not be Paid or Levied:</p>
+            <p>
+               <note place="margin">5 <hi>Car.</hi> I.</note>The then Commiſſioners of Sewers did repreſent the ſame to the King, and intreat Him to Name ſome Undertaker, who could and would Enterprize and Effect the ſame: And He was pleaſed to recommend <hi>Robert</hi> late Earl of <hi>Lindſey.</hi>
+            </p>
+            <p>That the Lords of Manners, Free-holders, Land-holders, and Commoners, in and near the ſaid Fenn-lands, did Contract with the ſaid Earl and his Participants in the ſaid Undertaking, that he ſhould have Four and twenty thouſand Acres of the ſaid Lands, for Draining all between <hi>Bourne</hi> and <hi>Lincoln;</hi> and as ſoon as he had finiſh'd the moſt difficult part, <hi>(viz.)</hi> that between <hi>Bourne</hi> and <hi>Kine,</hi> he ſhould have fourteen thouſand Acres, as a proportionable part.</p>
+            <p>That the Commiſſioners of Sewers were to be Judges, when he had perform'd the ſame.</p>
+            <p>That the ſaid Earl, and his Participants, proceeded with ſuch Effect, that they made a River Navigable, from <hi>Bourne</hi> to <hi>Boſton,</hi> being four and twenty Miles; and thereby, and by other Ways and Means by him and them uſed, with the Expence of ſeventy thouſand Pounds, effectually performed the ſaid Undertaking.</p>
+            <p>
+               <note place="margin">12 <hi>Car.</hi> I.</note>That the Commiſſioners apportion'd his, and his Participant's Share out of each Fenn.</p>
+            <p>
+               <note place="margin">13 <hi>Car.</hi> I.</note>They aſcertained the Place where this Share lay in each Fenn.</p>
+            <p>
+               <note place="margin">14 <hi>Car.</hi> I.</note>Theſe were Confirmed, and the Royal Aſſent Inrolled; and the ſame Year, upon a View by Commiſſioners, Poſſeſſion Decreed, and Royal Aſſent Inrolled.</p>
+            <p>That the ſaid Earl, and his Participants thus legally inveſted, and, as they thought, ſecured, entred and enjoyed the ſaid Lands, alotted them for their great Trouble and Expence; and in purſuance of their Contract (though far ſhort of making them a Recompence) built Houſes thereon, and Incloſed, Planted, Sowed and Improved the ſaid alotted Lands.</p>
+            <p>That the Troubles of that King's Reign growing on, ſome ill-diſpoſed Perſons took Ad<g ref="char:EOLhyphen"/>vantage thereof, and diſturbed their Poſſeſſion, and at length, by Violence, broke in upon them, and deſtroyed their Plantations, and demoliſhed their Houſes, and diſpoſſeſſed the ſaid Undertakers.</p>
+            <p>That upon the Reſtauration, ſuch of the Undertakers who were then living, and the Heirs of thoſe who were dead, deſpairing (by reaſon of the Variety of their Claims, and the Multitude of the Wrong-doers) to come at a Satisfaction for the Injury ſuſtained by the ordinary Methods of Law.</p>
+            <p>To avoid being ſuſpected of Vexation, and that all Perſons concerned, might have ſome Right done them, and their Intereſt eſtabliſhed for the future, did apply themſelves to the Parliament, for Redreſs:</p>
+            <p>And once the ſame and all Differences relating thereto, except the Judicature for the future, were Agreed to at the Bar of this Honourable Houſe, when the ſudden End of that Seſſion prevented the Paſſing the ſaid Bill.</p>
+            <p>And now the Petitioners humbly hope they ſhall have their Grievances Redreſs'd, and that this Houſe will have due Conſideration of the Merits of the ſaid Undertakers, in Drain<g ref="char:EOLhyphen"/>ing the ſaid Levell, whereby the Publick is to be benefited.</p>
+            <p>A quick Hearing, and the Judgment of this Parliament, is now therefore humbly deſired by the Drainers, (who have been ſo long delayed by ſuch Perſons, who have hitherto cra<g ref="char:EOLhyphen"/>ved the Juſtice and Judgment of Parliament;) ſo that by ſuch ſpeedy Hearing, the ſaid Drainers may be brought to Judgment, and freed from giving the Parliament any farther Trouble in this Matter.</p>
+            <p>And therefore Hope the Bill ſhall Paſs.</p>
+            <closer>
+               <signed>
+                  <add>I.B.</add>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
